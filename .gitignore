@@ -1,0 +1,23 @@
+# IntelliJ IDEA Project files
+.idea
+*.iml
+*.ipr
+*.iws
+*.eml
+out/
+ 
+# Eclipse Project files
+.classpath
+.project
+.settings/
+ 
+# My configuation 
+*.bak
+*.bin
+*.pdf
+models/
+images/
+uploads/
+*.avi
+__pycache__/
+test/
